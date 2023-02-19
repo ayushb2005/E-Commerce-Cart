@@ -1,0 +1,202 @@
+/* create css */
+.title{
+    font-size: 40px;
+    text-align: center;
+}
+.container-1{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+.container-2{
+    display: flex;
+    text-align: center;
+    justify-content: center;   
+}
+.grid-item-2{
+    margin: 5%;
+}
+.submitButton{
+    margin-left: 50%;
+}
+.box-1-input{
+    width: 300px;
+    height: 50px
+}
+.box-2-textarea{
+    width: 300px;
+    height: 50px
+}
+.box-4-input,
+.box-5-input
+{
+    width: 50px;
+}
+
+/* list css */
+.list-header{
+    text-align: center;
+}
+.list-links{
+    
+}
+ 
+/* Edit css*/
+.edit-page-title{
+    text-align: center;
+    font-size: 300%;
+}
+.read-only-id{
+    text-align: center;
+    font-size: 150%;
+}
+.edit-container{
+    display: flex;
+    justify-content: center;
+}
+.edit-container-2{
+    font-size: 150%;
+
+}
+.edit-container-3{
+    font-size: 150%;
+}
+.input-2{
+    width:120%;
+}
+.textarea-3{
+    width: 300px;
+    height: 150px;
+}
+.edit-container-4{
+    font-size: 150%;
+}
+.edit-container-5{
+    font-size: 150%;
+}
+.edit-container-6{
+    font-size: 150%;
+}
+.edit-submit{
+   margin-left: 32%;
+}
+
+/* Sign Up Page */
+
+.signup-container{
+    border-style: solid;
+    border-radius: 50px;
+    line-height: 20px;
+    margin-top: 50px;
+    display: flex;
+    margin-left: 800px;
+    width:300px;
+    height:400px;
+    justify-content: center;
+}
+.signup-button{
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 5px 60px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+.signup-text{
+    text-align: center;
+    font-size: 30px;
+}
+.toSignIn{
+    font-size: 15px;
+}
+
+.admin-container{
+    border-style: solid;
+    border-radius: 50px;
+    line-height: 20px;
+    margin-top: 50px;
+    display: flex;
+    margin-left: 800px;
+    width:300px;
+    height:400px;
+    justify-content: center;
+}
+.admin-text{
+    margin-top: 50px;
+    text-align: center;
+    font-size: 30px;
+}
+.admin-button{
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 5px 60px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+/* / page css */
+
+.mainpage{
+    display: flex;
+    justify-content:center ;
+}
+.nav-logo{
+    
+}   
+.nav-search{
+    margin-top: 30px;
+}
+.nav-drop{
+    margin-top: 30px;
+
+}
+
+.addCart{
+    margin-left: 1430px;
+    width:150px;
+    height:35px;
+    font-size: 20px;
+}
+
+
+
+.exp-wrapper {
+    position: relative;
+    border: 1px solid #aaa;
+    display: flex;
+    width:100px;
+    justify-content: space-around;
+    height: 30px;
+    line-height: 36px;
+    font-size: 24px;
+  }
+  
+  .exp-wrapper:after {
+    content: '/';
+    position: absolute;
+    left: 50%;
+    margin-left: -4px;
+    color: #aaa;
+  }
+  
+  input.exp {
+    float: left;
+    font-family: monospace;
+    border: 0;
+    width: 18px;
+    outline: none;
+    appearance: none;
+    font-size: 14px;
+  }
+  .scale{
+    transform:scale(.5, 1)
+  }
