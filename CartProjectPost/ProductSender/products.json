@@ -1,0 +1,73 @@
+[
+    {
+        "name": "KitchenAid Stand Mixer",
+        "description": "A versatile stand mixer with a powerful motor and multiple attachments for mixing, kneading, and more.",
+        "price": 299.99,
+        "stock": 14,
+        "category": "Appliances"
+      },
+      {
+        "name": "Calvin Klein Men's Dress Shirt",
+        "description": "A stylish and modern dress shirt made from high quality cotton fabric.",
+        "price": 79.99,
+        "stock": 37,
+        "category": "Clothing"
+      },
+      {
+        "name": "Nike Men's Running Shoes",
+        "description": "Lightweight and comfortable running shoes with a breathable mesh upper and responsive cushioning.",
+        "price": 109.99,
+        "stock": 25,
+        "category": "Shoes"
+      },
+      {
+        "name": "HP OfficeJet Pro Printer",
+        "description": "A high-performance printer with wireless connectivity and automatic double-sided printing.",
+        "price": 199.99,
+        "stock": 8,
+        "category": "Electronics"
+      },
+      {
+        "name": "Sony 65-Inch 4K TV",
+        "description": "A large, high-resolution TV with built-in streaming apps and support for HDR content.",
+        "price": 799.99,
+        "stock": 5,
+        "category": "Electronics"
+      },
+      {
+        "name": "Fujifilm Instax Mini 9 Camera",
+        "description": "A compact instant camera with a selfie mirror and a variety of fun colors to choose from.",
+        "price": 69.99,
+        "stock": 19,
+        "category": "Electronics"
+      },
+      {
+        "name": "Lenovo ThinkPad Laptop",
+        "description": "A powerful and reliable business laptop with a long-lasting battery and robust security features.",
+        "price": 999.99,
+        "stock": 12,
+        "category": "Computers"
+      },
+      {
+        "name": "Cuisinart Food Processor",
+        "description": "A versatile kitchen appliance with a large capacity and multiple attachments for chopping, pureeing, and more.",
+        "price": 199.99,
+        "stock": 16,
+        "category": "Appliances"
+      },
+      {
+        "name": "Keurig K-Cup Coffee Maker",
+        "description": "A convenient single serve coffee maker with a wide variety of K-Cup flavors to choose from.",
+        "price": 119.99,
+        "stock": 26,
+        "category": "Appliances"
+      },
+      {
+        "name": "Oral-B Electric Toothbrush",
+        "description": "An advanced electric toothbrush with multiple brush modes and a timer to ensure a thorough clean.",
+        "price": 79.99,
+        "stock": 23,
+        "category": "Health & Beauty"
+      }
+    
+]
